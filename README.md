@@ -1,4 +1,5 @@
 # Flappy Bird JS
+# Update for website 
 
 A Flappy Bird game clone written in JavaScript. Reworked code from [this](https://www.youtube.com/watch?v=0ArCFchlTq4) tutorial with minor modifications. See the original code [here](https://github.com/CodeExplainedRepo/Original-Flappy-bird-JavaScript).
 
